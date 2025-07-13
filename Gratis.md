@@ -38,6 +38,7 @@ contributing, through the facilitation of access to gratuitous glocal commons, t
 **Gratis** [theory of change (ToC](https://en.wikipedia.org/wiki/Theory_of_change) synthesizes fourteen years of [field research](https://en.wikipedia.org/wiki/Field_research) working with the most respected international solidarity organizations, commons defense, and philanthropic international movements. It echoes the data in the [Global Philanthropy](https://wings.issuelab.org/resource/the-global-landscape-of-philanthropy.html) and the [State of The Commons](https://creativecommons.org/2022/04/05/2021-annual-report) reports from where we analyzed the following difficulties of agents and institutions and developed our free open source solutions (FLOSS):
 
 |Agents|Current Problems|Gratis Solutions|
+|---|---|---|
 |Citizens|• Lack of information and
 acces to solidary, online
 and local, intitatives.
