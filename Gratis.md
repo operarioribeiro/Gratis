@@ -39,55 +39,43 @@ contributing, through the facilitation of access to gratuitous glocal commons, t
 
 ### For Citizens: 
 
-*Current Problems:*
-
-- Lack of information and access to solidarity, online and local, intitatives.
-- Want to help people in need without giving them money.
-- Want to donate objects, expert services, and money but don't know who to exactly.
-
-**Gratis Solutions:**
-
-- With our platform the public may get to know the solidary ecosystem, meeting gratuitous solutions for what they need.
-- Our app gives address and contact to local solidary initiatives that may be given to people without internet, instead of money.
-- Our solidarity social network allows people to make available their commons, be it a product, service, or event.
+- **Current Problems:**
+ - Lack of information and access to solidarity, online and local, intitatives.
+ - Want to help people in need without giving them money.
+ - Want to donate objects, expert services, and money but don't know who to exactly.
+- **Gratis Solutions:**
+ - With our platform the public may get to know the solidary ecosystem, meeting gratuitous solutions for what they need.
+ - Our app gives address and contact to local solidary initiatives that may be given to people without internet, instead of money.
+ - Our solidarity social network allows people to make available their commons, be it a product, service, or event.
 
 ### For Solidarity Institutions:
 
-*Current Problems:*
-
-- Quality of donations.
-- Lack of support and material resources.
-- Lack of volunteers.
-- Lack of free qualification and scalable growth assistance.
-
-**Gratis Solutions:**
-
-- Publishing in our platform the institutions promote themselves glocally for philanthropic investors and crowdsourcing microfinancers.
-- Institutions may also search for volunteer specifically for their needs not only in their communites, but online.
-- Our network allows a larger assistance intercommunication among the world solidarity community with the free sharing of courses, incubators, and events.
+- **Current Problems:**
+ - Quality of donations.
+ - Lack of support and material resources.
+ - Lack of volunteers.
+ - Lack of free qualification and scalable growth assistance.
+- **Gratis Solutions:**
+ - Publishing in our platform the institutions promote themselves glocally for philanthropic investors and crowdsourcing microfinancers.
+ - Institutions may also search for volunteer specifically for their needs not only in their communites, but online.
+ - Our network allows a larger assistance intercommunication among the world solidarity community with the free sharing of courses, incubators, and events.
 
 ### For Philanthropic Investors:
 
-*Current Problems:*
-
-- Lack of databases about the actions of small and medium size institutions.
-- Lack of systemic information on the solidary market.
-
-**Gratis Solutions:**
-
-- By researching and allowing solidary initiative to self-insert in our system we use crowdsourcing to also audit and measure them.
-- Being fully developed in open source and data, our platform makes available glocal philanthropic data, researches, and reports.
+- **Current Problems:**
+ - Lack of databases about the actions of small and medium size institutions.
+ - Lack of systemic information on the solidary market.
+- **Gratis Solutions:**
+ - By researching and allowing solidary initiative to self-insert in our system we use crowdsourcing to also audit and measure them.
+ - Being fully developed in open source and data, our platform makes available glocal philanthropic data, researches, and reports.
 
 ### For Commons and Solidarity Networks:
 
-*Current Problems:*
-
-- Difficulty engaging community in common causes policymaking and advocacy.
-- Lack of popular visibility in traditional media and organic traffic.
-
-**Gratis Solutions:**
-
-- By spontaneous and paid promotion of the solidarity movement our project educates for institutional dialogue.
-- Our project is aimed at the promotion of the commons ecosystem serving as a catalyzer of new initiatives in its favour.
+- **Current Problems:**
+ - Difficulty engaging community in common causes policymaking and advocacy.
+ - Lack of popular visibility in traditional media and organic traffic.
+- **Gratis Solutions:**
+ - By spontaneous and paid promotion of the solidarity movement our project educates for institutional dialogue.
+ - Our project is aimed at the promotion of the commons ecosystem serving as a catalyzer of new initiatives in its favour.
 
 © Licensed under [Nonviolent Nonprofit Open Education License (NNOEL)](https://dx.doi.org/10.17504/protocols.io.bp2l6zkbzgqe/v1).
