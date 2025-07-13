@@ -161,7 +161,7 @@ contributing, through the facilitation of access to gratuitous glocal commons, t
 - [Google Startups Incubator](https://startup.google.com).
 - [Greater Good Movement](https://movimentobemmaior.org.br).
 - [Group of Institutes, Foundations, and Enterprise (GIFE)](https://gife.org.br).
-- [I don't Throw It Away](https://nolotiro.org).
+- [I Don't Throw It Away](https://nolotiro.org).
 - [Network of Alternative and Solidarity Economy (REAS)](https://reas.red).
 - [Open Knowledge Foundation (OKF)](https://okfn.org).
 - [Open Society Foundations](https://opensocietyfoundations.org).
