@@ -39,28 +39,9 @@ contributing, through the facilitation of access to gratuitous glocal commons, t
 
 |Agents|Current Problems|Gratis Solutions|
 |---|---|---|
-|Citizens|• Lack of information and
-acces to solidary, online
-and local, intitatives.
-
-• Want to help people in
-extreme need without
-giving them money.
-
-• Want to donate objects,
-expert services, and
-money but don't know
-who to exactly.|• With our platform the public may
-get to know the solidary
-ecosystem, meeting gratuitous
-solutions for what they need.
-• Our app gives address and
-contact to local solidary initiatives
-that may be given to people
-without internet, instead of money.
-• Our solidarity social network
-allows people to make available
-their commons, be it a product,
-service, or event.|
+|Citizens|• Lack of information and access to solidary, onlineand local, intitatives.
+• Want to help people in extreme need without giving them money. • Want to donate objects, expert services, and money but don't know
+who to exactly.|• With our platform the public may get to know the solidary ecosystem, meeting gratuitous solutions for what they need. • Our app gives address and
+contact to local solidary initiatives that may be given to people without internet, instead of money. • Our solidarity social network allows people to make available their commons, be it a product, service, or event.|
 
 © Licensed under [Nonviolent Nonprofit Open Education License (NNOEL)](https://dx.doi.org/10.17504/protocols.io.bp2l6zkbzgqe/v1).
