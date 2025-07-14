@@ -144,7 +144,7 @@ contributing, through the facilitation of access to gratuitous glocal commons, t
 - Commons promotion incubator development plan.
 - [Descentralized autonomous organization  (DAO)](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization) [endownment](https://pt.wikipedia.org/wiki/Endowment) financialization.
 
-## Open Business Partnerships: 
+## Open Philanthropy Partnerships: 
 
 **Gratis** can prosper from [cooperating](https://en.wikipedia.org/wiki/Cooperative) with the following solidarity, commons defense, and philanthropic networks:
 
