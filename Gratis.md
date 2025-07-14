@@ -1,6 +1,6 @@
 # [Gratis](https://operarioribeiro.github.com/Gratis)
 
-🎁 _"Everybody needs help for free sometimes."_
+> _"Everybody needs help for free sometimes."_
 
 ## Open Project: 
 
