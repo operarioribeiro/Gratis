@@ -173,4 +173,7 @@ contributing, through the facilitation of access to gratuitous glocal commons, t
 - [World Initiative for Grantmakers Support (WINGS)](https://wingsweb.org).
 - [Yunus Social Businesses](https://yunusnegociossociais.com.br).
 
+## Open License:
+
 © Licensed under [Nonviolent Nonprofit Open Education License (NNOEL)](https://dx.doi.org/10.17504/protocols.io.bp2l6zkbzgqe/v1).
+
