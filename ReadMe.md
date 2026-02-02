@@ -1,4 +1,4 @@
-# [Gratis](https://operarioribeiro.github.com/Gratis)
+# [Gratis](https://github.com/operarioribeiro/Gratis)
 
 > _"Everybody needs help for free sometimes."_
 
